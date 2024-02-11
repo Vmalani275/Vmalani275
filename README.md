@@ -1,4 +1,8 @@
 ### Hi there 👋
+🔭 I’m currently studyin Btech Cse in CHARUSAT UNIVERSITY
+Currently working on Artificial Intelligence and Machine Learning.
+How to reach me: Via Email: vanshmalani27@gmail.com
+funfact; ive been into computers since 9th std!
 
 <!--
 **Vmalani275/Vmalani275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
